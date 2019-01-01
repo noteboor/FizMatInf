@@ -19,14 +19,14 @@
   + [Для 19 и математических извращенцев](https://github.com/tanookki/FizMatInf/blob/master/Нестандартные%20задачи.pdf)
 
 3. Статграды
-  + 20 декабря 18 [задания](https://github.com/tanookki/FizMatInf/blob/master/статград_20.12.18_задания.pdf) [форма для ответов](https://docs.google.com/spreadsheets/d/1yg7RwqaRn0PYUrywPNlMfG7MQpUKBhTjlZLgDCDpW78/edit?usp=sharing)
+  + 20 декабря 18 ([задания](https://github.com/tanookki/FizMatInf/blob/master/статград_20.12.18_задания.pdf) , [форма для ответов](https://docs.google.com/spreadsheets/d/1yg7RwqaRn0PYUrywPNlMfG7MQpUKBhTjlZLgDCDpW78/edit?usp=sharing) )
 
 
 
 # Информатика
 1. [Лучший сайт по подготовке](http://kpolyakov.spb.ru/school/ege.htm)
 
-    [Скачать с лучшего сайта по информатике все для 100 баллов](http://kpolyakov.spb.ru/download/ege2019kp.zip)
+    [Скачать с лучшего сайта все для 100 баллов](http://kpolyakov.spb.ru/download/ege2019kp.zip)
 
 2. [Классные задачи от двух классных ребят](https://github.com/tanookki/FizMatInf/blob/master/сложные%2023.pdf)
 
