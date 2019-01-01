@@ -1,4 +1,3 @@
-# FizMatInf
 # Математика
 1. Задачники
   + [Ященко 2019 36 варианта](https://github.com/tanookki/FizMatInf/blob/master/2019_Ященко_36_вариантов.pdf) // Ященко на аве - билет в кармане
