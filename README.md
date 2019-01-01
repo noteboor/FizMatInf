@@ -28,7 +28,10 @@
 
     [Скачать с лучшего сайта все для 100 баллов](http://kpolyakov.spb.ru/download/ege2019kp.zip)
 
-2. [Классные задачи от двух классных ребят](https://github.com/tanookki/FizMatInf/blob/master/сложные%2023.pdf)
+2. Задачники 
+  + [Я сдам ЕГЭ (не сарказм)](https://drive.google.com/file/d/1Zapof48CUcb6b7lwapX-ggeKQfMQ-PIo/view)
+  
+3. [Классные задачи от двух классных ребят](https://github.com/tanookki/FizMatInf/blob/master/сложные%2023.pdf)
 
 # Русский
 1. Задачники
