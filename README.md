@@ -1,13 +1,13 @@
 # FizMatInf
 # Математика
 1. Задачники
-* [Ященко 2019 36 варианта](https://github.com/tanookki/FizMatInf/blob/master/2019_Ященко_36_вариантов.pdf) // Ященко на аве - билет в кармане
-* [Ященко 2019 тестики](https://github.com/tanookki/FizMatInf/blob/master/2019_Ященко_тест.pdf) /////// (военный)
-* [Мальцева 2018](https://github.com/tanookki/FizMatInf/blob/master/2018_Мальцева.pdf)
-* [Лысенко 2018](https://github.com/tanookki/FizMatInf/blob/master/2018_Лысенко.pdf)
-* [Гордин. Это должен знать каждый матшкольник](https://github.com/tanookki/FizMatInf/blob/master/Это%20должен%20знать%20каждый%20матшкольник.pdf)
+  + [Ященко 2019 36 варианта](https://github.com/tanookki/FizMatInf/blob/master/2019_Ященко_36_вариантов.pdf) // Ященко на аве - билет в кармане
+  + [Ященко 2019 тестики](https://github.com/tanookki/FizMatInf/blob/master/2019_Ященко_тест.pdf) /////// (военный)
+  + [Мальцева 2018](https://github.com/tanookki/FizMatInf/blob/master/2018_Мальцева.pdf)
+  + [Лысенко 2018](https://github.com/tanookki/FizMatInf/blob/master/2018_Лысенко.pdf)
+  + [Гордин. Это должен знать каждый матшкольник](https://github.com/tanookki/FizMatInf/blob/master/Это%20должен%20знать%20каждый%20матшкольник.pdf)
 
-+ [Хороший сайт по физике и математике](http://mathus.ru)
+2. [Хороший сайт по физике и математике](http://mathus.ru)
   + Для 13 и 15
     + [тригонометрия](https://github.com/tanookki/FizMatInf/blob/master/Тригонометрические%20уравнения.pdf)
     + [показательные](https://github.com/tanookki/FizMatInf/blob/master/Показательные%20уравнения%20и%20неравенства.pdf)
@@ -20,7 +20,7 @@
   + [Для 19 и математических извращенцев](https://github.com/tanookki/FizMatInf/blob/master/Нестандартные%20задачи.pdf)
 
 3. Статграды
-* 20 декабря 18 [задания](https://github.com/tanookki/FizMatInf/blob/master/статград_20.12.18_задания.pdf) [форма для ответов](https://docs.google.com/spreadsheets/d/1yg7RwqaRn0PYUrywPNlMfG7MQpUKBhTjlZLgDCDpW78/edit?usp=sharing)
+  + 20 декабря 18 [задания](https://github.com/tanookki/FizMatInf/blob/master/статград_20.12.18_задания.pdf) [форма для ответов](https://docs.google.com/spreadsheets/d/1yg7RwqaRn0PYUrywPNlMfG7MQpUKBhTjlZLgDCDpW78/edit?usp=sharing)
 
 
 
@@ -33,4 +33,4 @@
 
 # Русский
 1. Задачники
-  * 
+  + 
