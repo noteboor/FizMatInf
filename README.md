@@ -9,10 +9,10 @@
 
 2. [Хороший сайт по физике и математике](http://mathus.ru)
   * Для 13 и 15
-    + [тригонометрия](https://github.com/tanookki/FizMatInf/blob/master/Тригонометрические%20уравнения.pdf)
-    + [показательные](https://github.com/tanookki/FizMatInf/blob/master/Показательные%20уравнения%20и%20неравенства.pdf)
-    + [логарифмы](https://github.com/tanookki/FizMatInf/blob/master/Логарифмические%20уравнения%20и%20неравенства.pdf)
-    + [алгебраические](https://github.com/tanookki/FizMatInf/blob/master/Алгебраические%20уравнения%20и%20неравенства.pdf)
+    * [тригонометрия](https://github.com/tanookki/FizMatInf/blob/master/Тригонометрические%20уравнения.pdf)
+    * [показательные](https://github.com/tanookki/FizMatInf/blob/master/Показательные%20уравнения%20и%20неравенства.pdf)
+    * [логарифмы](https://github.com/tanookki/FizMatInf/blob/master/Логарифмические%20уравнения%20и%20неравенства.pdf)
+    * [алгебраические](https://github.com/tanookki/FizMatInf/blob/master/Алгебраические%20уравнения%20и%20неравенства.pdf)
   * [Для 14](https://github.com/tanookki/FizMatInf/blob/master/Стереометрия.pdf)
   * [Для 16](https://github.com/tanookki/FizMatInf/blob/master/Планиметрия.pdf)
   * [Для 17](https://github.com/tanookki/FizMatInf/blob/master/Экономические%20задачи.pdf)
