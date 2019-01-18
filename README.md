@@ -1,5 +1,5 @@
 # Разное полезное
-1. Приложения (андроид)
+1
   + []()
   
 2. [ЗФТШ](https://drive.google.com/drive/folders/1TOiXxbW09wWUe6Bmhe72bflI_rujnYPY)
@@ -25,7 +25,12 @@
   + [Лысенко 2018](https://github.com/tanookki/FizMatInf/blob/master/2018_Лысенко.pdf)
   + [Гордин. Это должен знать каждый матшкольник](https://github.com/tanookki/FizMatInf/blob/master/Это%20должен%20знать%20каждый%20матшкольник.pdf)
   + [Задачник Wild Mathing](https://github.com/tanookki/FizMatInf/blob/master/Задачник%20Wild%20Mathing.pdf)
-
+  
+3. Сайты 
+  + [Сканируй. Решай. Учись. Photomath.](https://www.photomath.net/ru/)
+  + [Desmos. Покатайся по графикам](https://www.desmos.com)
+  + [Wolfram Аlpha](https://www.wolframalpha.com)
+  
 3. [Хороший сайт по физике и математике](http://mathus.ru)
   + Для 13 и 15
     + [тригонометрия](https://github.com/tanookki/FizMatInf/blob/master/Тригонометрические%20уравнения.pdf)
