@@ -1,7 +1,4 @@
 # Разное полезное
-1
-  + []()
-  
 2. [ЗФТШ](https://drive.google.com/drive/folders/1TOiXxbW09wWUe6Bmhe72bflI_rujnYPY)
 
 # Математика
@@ -31,7 +28,7 @@
   + [Desmos. Покатайся по графикам](https://www.desmos.com)
   + [Wolfram Аlpha](https://www.wolframalpha.com)
   
-3. [Хороший сайт по физике и математике](http://mathus.ru)
+4. [Хороший сайт по физике и математике](http://mathus.ru)
   + Для 13 и 15
     + [тригонометрия](https://github.com/tanookki/FizMatInf/blob/master/Тригонометрические%20уравнения.pdf)
     + [показательные](https://github.com/tanookki/FizMatInf/blob/master/Показательные%20уравнения%20и%20неравенства.pdf)
@@ -43,12 +40,12 @@
   + [Для 18](https://github.com/tanookki/FizMatInf/blob/master/Задачи%20с%20параметрами.pdf)
   + [Для 19 и математических извращенцев](https://github.com/tanookki/FizMatInf/blob/master/Нестандартные%20задачи.pdf)
 
-4. Для шпор
+5. Для шпор
   + [Справочные материалы от Пифагора](https://github.com/tanookki/FizMatInf/blob/master/Справочные%20материалы%20от%20Пифагора.pdf)
 
-5. [Параметры из открытого банка](https://github.com/tanookki/FizMatInf/blob/master/Параматры_из_открытого_банка.pdf) - [ответы к ним](https://docs.google.com/spreadsheets/d/1RsTHs1ixwgMvTneheEBLyxyv_8Q6i5gKA3mdgf32K0o/edit#gid=0)
+6. [Параметры из открытого банка](https://github.com/tanookki/FizMatInf/blob/master/Параматры_из_открытого_банка.pdf) - [ответы к ним](https://docs.google.com/spreadsheets/d/1RsTHs1ixwgMvTneheEBLyxyv_8Q6i5gKA3mdgf32K0o/edit#gid=0)
 
-6. Статграды
+7. Статграды
   + 20 декабря 18 ([задания](https://github.com/tanookki/FizMatInf/blob/master/статград_20.12.18_задания.pdf) , [форма для ответов](https://docs.google.com/spreadsheets/d/1yg7RwqaRn0PYUrywPNlMfG7MQpUKBhTjlZLgDCDpW78/edit?usp=sharing) )
 
 
@@ -62,7 +59,7 @@
   + [Я сдам ЕГЭ (не сарказм)](https://drive.google.com/file/d/1Zapof48CUcb6b7lwapX-ggeKQfMQ-PIo/view)
   + [Диагностические работы](https://github.com/tanookki/FizMatInf/blob/master/2019_инфа_Диагностические%20работы.pdf)
  
-3. [Все прототипы 1 части от котанов](https://docs.google.com/spreadsheets/d/1Cd-VYBV4-nshx7LiLT4DsER8oU14Hfx-Rkl63Rdyx-I/edit#gid=0)
+3. [Все прототипы 1 части от трех котанов](https://docs.google.com/spreadsheets/d/1Cd-VYBV4-nshx7LiLT4DsER8oU14Hfx-Rkl63Rdyx-I/edit#gid=0)
 
 4. [Две классные 23 задачи от двух классных ребят](https://github.com/tanookki/FizMatInf/blob/master/сложные%2023.pdf)
 
@@ -72,9 +69,6 @@
 1. Каналы
   + [Anastasia Pesik](https://www.youtube.com/channel/UC9PP3JxkeziZiWtPWKsk93A)
   
-2. Задачники
-  + 
-
 3. Аргументы
   + [Неплохо было б прочесть](https://github.com/tanookki/FizMatInf/blob/master/Аргументы_СНАЧАЛА%20ПРОЧТИ%20ЭТО.pdf)
   + [Ахматова. Не с теми я, кто бросил землю](https://github.com/tanookki/FizMatInf/blob/master/Аргументы_Ахматова_Не%20с%20теми%20я%2C%20кто%20бросил%20землю.pdf)
