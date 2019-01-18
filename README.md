@@ -23,18 +23,18 @@
   + [Сканируй. Решай. Учись. Photomath.](https://www.photomath.net/ru/)
   + [Desmos. Покатайся по графикам](https://www.desmos.com)
   + [Wolfram Аlpha](https://www.wolframalpha.com)
-  
-4. [Хороший сайт по физике и математике](http://mathus.ru)
-  + Для 13 и 15
-    + [тригонометрия](https://github.com/tanookki/FizMatInf/blob/master/Тригонометрические%20уравнения.pdf)
-    + [показательные](https://github.com/tanookki/FizMatInf/blob/master/Показательные%20уравнения%20и%20неравенства.pdf)
-    + [логарифмы](https://github.com/tanookki/FizMatInf/blob/master/Логарифмические%20уравнения%20и%20неравенства.pdf)
-    + [алгебраические](https://github.com/tanookki/FizMatInf/blob/master/Алгебраические%20уравнения%20и%20неравенства.pdf)
-  + [Для 14](https://github.com/tanookki/FizMatInf/blob/master/Стереометрия.pdf)
-  + [Для 16](https://github.com/tanookki/FizMatInf/blob/master/Планиметрия.pdf)
-  + [Для 17](https://github.com/tanookki/FizMatInf/blob/master/Экономические%20задачи.pdf)
-  + [Для 18](https://github.com/tanookki/FizMatInf/blob/master/Задачи%20с%20параметрами.pdf)
-  + [Для 19 и математических извращенцев](https://github.com/tanookki/FizMatInf/blob/master/Нестандартные%20задачи.pdf)
+  + [math100.ru](http://math100.ru/sprav-mat/)
+  + [Хороший сайт по физике и математике И. В. Яковлевf](http://mathus.ru)
+      + Для 13 и 15
+        + [тригонометрия](https://github.com/tanookki/FizMatInf/blob/master/Тригонометрические%20уравнения.pdf)
+        + [показательные](https://github.com/tanookki/FizMatInf/blob/master/Показательные%20уравнения%20и%20неравенства.pdf)
+        + [логарифмы](https://github.com/tanookki/FizMatInf/blob/master/Логарифмические%20уравнения%20и%20неравенства.pdf)
+        + [алгебраические](https://github.com/tanookki/FizMatInf/blob/master/Алгебраические%20уравнения%20и%20неравенства.pdf)
+      + [Для 14](https://github.com/tanookki/FizMatInf/blob/master/Стереометрия.pdf)
+      + [Для 16](https://github.com/tanookki/FizMatInf/blob/master/Планиметрия.pdf)
+      + [Для 17](https://github.com/tanookki/FizMatInf/blob/master/Экономические%20задачи.pdf)
+      + [Для 18](https://github.com/tanookki/FizMatInf/blob/master/Задачи%20с%20параметрами.pdf)
+      + [Для 19 и математических извращенцев](https://github.com/tanookki/FizMatInf/blob/master/Нестандартные%20задачи.pdf)
 
 5. Для шпор
   + [Справочные материалы от Пифагора](https://github.com/tanookki/FizMatInf/blob/master/Справочные%20материалы%20от%20Пифагора.pdf)
@@ -47,17 +47,22 @@
 
 
 # Информатика
-1. [Лучший сайт по подготовке](http://kpolyakov.spb.ru/school/ege.htm)
+1. Каналы 
+  + [Информатик Бу](https://www.youtube.com/channel/UCmUcjDHUkIMhfqBfyHYXYuA)
+  + [Alex Danov](https://www.youtube.com/channel/UCxAZM_7sunA166ycxTj0Etw)
+  + [Тимофей Хирьянов](https://www.youtube.com/user/tkhirianov)
+  
+2. [Лучший сайт по подготовке](http://kpolyakov.spb.ru/school/ege.htm)
 
     [СКАЧАТЬ АРХИВ ВСЕХ ЗАДАНИЙ](http://kpolyakov.spb.ru/download/ege2019kp.zip)
 
-2. Задачники 
+3. Задачники 
   + [Я сдам ЕГЭ (не сарказм)](https://drive.google.com/file/d/1Zapof48CUcb6b7lwapX-ggeKQfMQ-PIo/view)
   + [Диагностические работы](https://github.com/tanookki/FizMatInf/blob/master/2019_инфа_Диагностические%20работы.pdf)
  
-3. [Все прототипы 1 части от трех котанов](https://docs.google.com/spreadsheets/d/1Cd-VYBV4-nshx7LiLT4DsER8oU14Hfx-Rkl63Rdyx-I/edit#gid=0)
+4. [Все прототипы 1 части от трех котанов](https://docs.google.com/spreadsheets/d/1Cd-VYBV4-nshx7LiLT4DsER8oU14Hfx-Rkl63Rdyx-I/edit#gid=0)
 
-4. [Две классные 23 задачи от двух классных ребят](https://github.com/tanookki/FizMatInf/blob/master/сложные%2023.pdf)
+5. [Две классные 23 задачи от двух классных ребят](https://github.com/tanookki/FizMatInf/blob/master/сложные%2023.pdf)
 
 
 
