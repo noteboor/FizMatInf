@@ -1,3 +1,4 @@
+[Наша беседа](https://vk.me/join/AJQ1d66iKgLiCuhNtYBzDf7k)
 # Математика
 1. Каналы
     + [Pavel Maslov](https://www.youtube.com/channel/UCS3LBK0zy47iQgVApQo-fww)
@@ -26,10 +27,10 @@
     + [math100.ru](http://math100.ru/sprav-mat/)
     + [Хороший сайт по физике и математике И. В. Яковлева](http://mathus.ru)
         + Для 13 и 15
-          + [тригонометрия](https://github.com/tanookki/FizMatInf/blob/master/Тригонометрические%20уравнения.pdf)
-          + [показательные](https://github.com/tanookki/FizMatInf/blob/master/Показательные%20уравнения%20и%20неравенства.pdf)
-          + [логарифмы](https://github.com/tanookki/FizMatInf/blob/master/Логарифмические%20уравнения%20и%20неравенства.pdf)
-          + [алгебраические](https://github.com/tanookki/FizMatInf/blob/master/Алгебраические%20уравнения%20и%20неравенства.pdf)
+              + [тригонометрия](https://github.com/tanookki/FizMatInf/blob/master/Тригонометрические%20уравнения.pdf)
+              + [показательные](https://github.com/tanookki/FizMatInf/blob/master/Показательные%20уравнения%20и%20неравенства.pdf)
+              + [логарифмы](https://github.com/tanookki/FizMatInf/blob/master/Логарифмические%20уравнения%20и%20неравенства.pdf)
+              + [алгебраические](https://github.com/tanookki/FizMatInf/blob/master/Алгебраические%20уравнения%20и%20неравенства.pdf)
         + [Для 14](https://github.com/tanookki/FizMatInf/blob/master/Стереометрия.pdf)
         + [Для 16](https://github.com/tanookki/FizMatInf/blob/master/Планиметрия.pdf)
         + [Для 17](https://github.com/tanookki/FizMatInf/blob/master/Экономические%20задачи.pdf)
