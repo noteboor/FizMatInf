@@ -4,18 +4,18 @@
   
 2. [ЗФТШ](https://drive.google.com/drive/folders/1TOiXxbW09wWUe6Bmhe72bflI_rujnYPY)
 
-3. [Справочные материалы от Пифагора](https://github.com/tanookki/FizMatInf/blob/master/Справочные%20материалы%20от%20Пифагора.pdf)
-
 # Математика
 1. Каналы
   + [Pavel Maslov](https://www.youtube.com/channel/UCS3LBK0zy47iQgVApQo-fww)
   + [Valery Volkov](https://www.youtube.com/channel/UCLDpIKDTFBSwIYtAG0Wpibg)
   + [Wild Mathing](https://www.youtube.com/channel/UCj0Od_id0gPbmwZ65U8xwrw)
   + [Борис Трушин](https://www.youtube.com/channel/UCo2JwjPSEc9U8ZJ_KQi6rDQ)
+  + [Школа Пифагора](https://www.youtube.com/channel/UC407WiIWio6gwRluzNSUQ3w)
+  + LOMONOSOV CLUB ([прямые трансляции](https://www.youtube.com/user/lomonosovclubvideo), [записи стримов](https://www.youtube.com/channel/UC9C0wu31Q8jY1NTohcUCXWA))
+  + [eXtraTeam](https://www.youtube.com/user/dmitrysinyaev)
   + [Математика - просто](https://www.youtube.com/channel/UClTIrwj5npeOaBjH6_AkKyA)
   
 2. Задачники
-
   + [Методические указания](https://github.com/tanookki/FizMatInf/blob/master/2019_профиль_Методические%20указания.pdf)
   + [Ященко 2019 36 варианта](https://github.com/tanookki/FizMatInf/blob/master/2019_Ященко_36_вариантов.pdf) // Ященко на аве - билет в кармане
   + [Ященко 2019 тестики](https://github.com/tanookki/FizMatInf/blob/master/2019_Ященко_тест.pdf) /////// (военный)
@@ -38,9 +38,12 @@
   + [Для 18](https://github.com/tanookki/FizMatInf/blob/master/Задачи%20с%20параметрами.pdf)
   + [Для 19 и математических извращенцев](https://github.com/tanookki/FizMatInf/blob/master/Нестандартные%20задачи.pdf)
 
-4. [Параметры из открытого банка]() - [ответы к ним](https://docs.google.com/spreadsheets/d/1RsTHs1ixwgMvTneheEBLyxyv_8Q6i5gKA3mdgf32K0o/edit#gid=0)
+4. Для шпор
+  + [Справочные материалы от Пифагора](https://github.com/tanookki/FizMatInf/blob/master/Справочные%20материалы%20от%20Пифагора.pdf)
 
-4. Статграды
+5. [Параметры из открытого банка](https://github.com/tanookki/FizMatInf/blob/master/Параматры_из_открытого_банка.pdf) - [ответы к ним](https://docs.google.com/spreadsheets/d/1RsTHs1ixwgMvTneheEBLyxyv_8Q6i5gKA3mdgf32K0o/edit#gid=0)
+
+6. Статграды
   + 20 декабря 18 ([задания](https://github.com/tanookki/FizMatInf/blob/master/статград_20.12.18_задания.pdf) , [форма для ответов](https://docs.google.com/spreadsheets/d/1yg7RwqaRn0PYUrywPNlMfG7MQpUKBhTjlZLgDCDpW78/edit?usp=sharing) )
 
 
