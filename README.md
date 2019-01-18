@@ -4,6 +4,8 @@
   
 2. [ЗФТШ](https://drive.google.com/drive/folders/1TOiXxbW09wWUe6Bmhe72bflI_rujnYPY)
 
+3. [Справочные материалы от Пифагора](https://github.com/tanookki/FizMatInf/blob/master/Справочные%20материалы%20от%20Пифагора.pdf)
+
 # Математика
 1. Каналы
   + [Pavel Maslov](https://www.youtube.com/channel/UCS3LBK0zy47iQgVApQo-fww)
@@ -13,10 +15,12 @@
   + [Математика - просто](https://www.youtube.com/channel/UClTIrwj5npeOaBjH6_AkKyA)
   
 2. Задачники
+
+  + [Методические указания](https://github.com/tanookki/FizMatInf/blob/master/2019_профиль_Методические%20указания.pdf)
   + [Ященко 2019 36 варианта](https://github.com/tanookki/FizMatInf/blob/master/2019_Ященко_36_вариантов.pdf) // Ященко на аве - билет в кармане
   + [Ященко 2019 тестики](https://github.com/tanookki/FizMatInf/blob/master/2019_Ященко_тест.pdf) /////// (военный)
   + Под редакцией И. В. Ященко 
-  [13](https://github.com/tanookki/FizMatInf/blob/master/2019_Под%20редакцией%20И.%20В.%20Ященко_13.pdf) [14](https://github.com/tanookki/FizMatInf/blob/master/2019_Под%20редакцией%20И.%20В.%20Ященко_14.pdf) [15](https://github.com/tanookki/FizMatInf/blob/master/2019_Под%20редакцией%20И.%20В.%20Ященко_15.pdf) [16](https://github.com/tanookki/FizMatInf/blob/master/2019_Под%20редакцией%20И.%20В.%20Ященко_16.pdf) [17](https://github.com/tanookki/FizMatInf/blob/master/2019_Под%20редакцией%20И.%20В.%20Ященко_17.pdf) [18](https://github.com/tanookki/FizMatInf/blob/master/2019_Под%20редакцией%20И.%20В.%20Ященко_18.pdf)[19](https://github.com/tanookki/FizMatInf/blob/master/2019_Под%20редакцией%20И.%20В.%20Ященко_19.pdf)
+  [13](https://github.com/tanookki/FizMatInf/blob/master/2019_Под%20редакцией%20И.%20В.%20Ященко_13.pdf) [14](https://github.com/tanookki/FizMatInf/blob/master/2019_Под%20редакцией%20И.%20В.%20Ященко_14.pdf) [15](https://github.com/tanookki/FizMatInf/blob/master/2019_Под%20редакцией%20И.%20В.%20Ященко_15.pdf) [16](https://github.com/tanookki/FizMatInf/blob/master/2019_Под%20редакцией%20И.%20В.%20Ященко_16.pdf) [17](https://github.com/tanookki/FizMatInf/blob/master/2019_Под%20редакцией%20И.%20В.%20Ященко_17.pdf) [18](https://github.com/tanookki/FizMatInf/blob/master/2019_Под%20редакцией%20И.%20В.%20Ященко_18.pdf) [19](https://github.com/tanookki/FizMatInf/blob/master/2019_Под%20редакцией%20И.%20В.%20Ященко_19.pdf)
   + [Мальцева 2018](https://github.com/tanookki/FizMatInf/blob/master/2018_Мальцева.pdf)
   + [Лысенко 2018](https://github.com/tanookki/FizMatInf/blob/master/2018_Лысенко.pdf)
   + [Гордин. Это должен знать каждый матшкольник](https://github.com/tanookki/FizMatInf/blob/master/Это%20должен%20знать%20каждый%20матшкольник.pdf)
@@ -48,6 +52,7 @@
 
 2. Задачники 
   + [Я сдам ЕГЭ (не сарказм)](https://drive.google.com/file/d/1Zapof48CUcb6b7lwapX-ggeKQfMQ-PIo/view)
+  + [Диагностические работы](https://github.com/tanookki/FizMatInf/blob/master/2019_инфа_Диагностические%20работы.pdf)
  
 3. [Все прототипы 1 части от котанов](https://docs.google.com/spreadsheets/d/1Cd-VYBV4-nshx7LiLT4DsER8oU14Hfx-Rkl63Rdyx-I/edit#gid=0)
 
