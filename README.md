@@ -1,6 +1,7 @@
-# Не ебу что
+# Разное полезное
 1. Приложения (андроид)
   + []()
+  
 2. [ЗФТШ](https://drive.google.com/drive/folders/1TOiXxbW09wWUe6Bmhe72bflI_rujnYPY)
 
 # Математика
@@ -10,6 +11,7 @@
   + [Wild Mathing](https://www.youtube.com/channel/UCj0Od_id0gPbmwZ65U8xwrw)
   + [Борис Трушин](https://www.youtube.com/channel/UCo2JwjPSEc9U8ZJ_KQi6rDQ)
   + [Математика - просто](https://www.youtube.com/channel/UClTIrwj5npeOaBjH6_AkKyA)
+  
 2. Задачники
   + [Ященко 2019 36 варианта](https://github.com/tanookki/FizMatInf/blob/master/2019_Ященко_36_вариантов.pdf) // Ященко на аве - билет в кармане
   + [Ященко 2019 тестики](https://github.com/tanookki/FizMatInf/blob/master/2019_Ященко_тест.pdf) /////// (военный)
@@ -33,6 +35,7 @@
   + [Для 19 и математических извращенцев](https://github.com/tanookki/FizMatInf/blob/master/Нестандартные%20задачи.pdf)
 
 4. [Параметры из открытого банка]() - [ответы к ним](https://docs.google.com/spreadsheets/d/1RsTHs1ixwgMvTneheEBLyxyv_8Q6i5gKA3mdgf32K0o/edit#gid=0)
+
 4. Статграды
   + 20 декабря 18 ([задания](https://github.com/tanookki/FizMatInf/blob/master/статград_20.12.18_задания.pdf) , [форма для ответов](https://docs.google.com/spreadsheets/d/1yg7RwqaRn0PYUrywPNlMfG7MQpUKBhTjlZLgDCDpW78/edit?usp=sharing) )
 
@@ -55,10 +58,11 @@
 # Русский
 1. Каналы
   + [Anastasia Pesik](https://www.youtube.com/channel/UC9PP3JxkeziZiWtPWKsk93A)
-1. Задачники
+  
+2. Задачники
   + 
 
-2. Аргументы
+3. Аргументы
   + [Неплохо было б прочесть](https://github.com/tanookki/FizMatInf/blob/master/Аргументы_СНАЧАЛА%20ПРОЧТИ%20ЭТО.pdf)
   + [Ахматова. Не с теми я, кто бросил землю](https://github.com/tanookki/FizMatInf/blob/master/Аргументы_Ахматова_Не%20с%20теми%20я%2C%20кто%20бросил%20землю.pdf)
   + [Булгаков. Мастер и маргарита](https://github.com/tanookki/FizMatInf/blob/master/Аргументы_Булгаков_Мастер%20и%20маргарита.pdf)
