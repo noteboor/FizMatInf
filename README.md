@@ -2,22 +2,22 @@
 1. Каналы
   + [Pavel Maslov](https://www.youtube.com/channel/UCS3LBK0zy47iQgVApQo-fww)
   + [Valery Volkov](https://www.youtube.com/channel/UCLDpIKDTFBSwIYtAG0Wpibg)
+  + LOMONOSOV CLUB ([прямые трансляции](https://www.youtube.com/user/lomonosovclubvideo), [записи стримов](https://www.youtube.com/channel/UC9C0wu31Q8jY1NTohcUCXWA))
   + [Wild Mathing](https://www.youtube.com/channel/UCj0Od_id0gPbmwZ65U8xwrw)
   + [Борис Трушин](https://www.youtube.com/channel/UCo2JwjPSEc9U8ZJ_KQi6rDQ)
   + [Школа Пифагора](https://www.youtube.com/channel/UC407WiIWio6gwRluzNSUQ3w)
-  + LOMONOSOV CLUB ([прямые трансляции](https://www.youtube.com/user/lomonosovclubvideo), [записи стримов](https://www.youtube.com/channel/UC9C0wu31Q8jY1NTohcUCXWA))
   + [eXtraTeam](https://www.youtube.com/user/dmitrysinyaev)
   
 2. Задачники
-  + [Методические указания](https://github.com/tanookki/FizMatInf/blob/master/2019_профиль_Методические%20указания.pdf)
   + [Ященко 2019 36 варианта](https://github.com/tanookki/FizMatInf/blob/master/2019_Ященко_36_вариантов.pdf) // Ященко на аве - билет в кармане
   + [Ященко 2019 тестики](https://github.com/tanookki/FizMatInf/blob/master/2019_Ященко_тест.pdf) /////// (военный)
-  + Под редакцией И. В. Ященко 
-  [13](https://github.com/tanookki/FizMatInf/blob/master/2019_Под%20редакцией%20И.%20В.%20Ященко_13.pdf) [14](https://github.com/tanookki/FizMatInf/blob/master/2019_Под%20редакцией%20И.%20В.%20Ященко_14.pdf) [15](https://github.com/tanookki/FizMatInf/blob/master/2019_Под%20редакцией%20И.%20В.%20Ященко_15.pdf) [16](https://github.com/tanookki/FizMatInf/blob/master/2019_Под%20редакцией%20И.%20В.%20Ященко_16.pdf) [17](https://github.com/tanookki/FizMatInf/blob/master/2019_Под%20редакцией%20И.%20В.%20Ященко_17.pdf) [18](https://github.com/tanookki/FizMatInf/blob/master/2019_Под%20редакцией%20И.%20В.%20Ященко_18.pdf) [19](https://github.com/tanookki/FizMatInf/blob/master/2019_Под%20редакцией%20И.%20В.%20Ященко_19.pdf)
+  + Под редакцией И. В. Ященко: 
+  [13](https://github.com/tanookki/FizMatInf/blob/master/2019_Под%20редакцией%20И.%20В.%20Ященко_13.pdf), [14](https://github.com/tanookki/FizMatInf/blob/master/2019_Под%20редакцией%20И.%20В.%20Ященко_14.pdf), [15](https://github.com/tanookki/FizMatInf/blob/master/2019_Под%20редакцией%20И.%20В.%20Ященко_15.pdf), [16](https://github.com/tanookki/FizMatInf/blob/master/2019_Под%20редакцией%20И.%20В.%20Ященко_16.pdf), [17](https://github.com/tanookki/FizMatInf/blob/master/2019_Под%20редакцией%20И.%20В.%20Ященко_17.pdf), [18](https://github.com/tanookki/FizMatInf/blob/master/2019_Под%20редакцией%20И.%20В.%20Ященко_18.pdf), [19](https://github.com/tanookki/FizMatInf/blob/master/2019_Под%20редакцией%20И.%20В.%20Ященко_19.pdf)
   + [Мальцева 2018](https://github.com/tanookki/FizMatInf/blob/master/2018_Мальцева.pdf)
   + [Лысенко 2018](https://github.com/tanookki/FizMatInf/blob/master/2018_Лысенко.pdf)
   + [Гордин. Это должен знать каждый матшкольник](https://github.com/tanookki/FizMatInf/blob/master/Это%20должен%20знать%20каждый%20матшкольник.pdf)
   + [Задачник Wild Mathing](https://github.com/tanookki/FizMatInf/blob/master/Задачник%20Wild%20Mathing.pdf)
+  + [Методические указания](https://github.com/tanookki/FizMatInf/blob/master/2019_профиль_Методические%20указания.pdf)
   
 3. Сайты 
   + [Сканируй. Решай. Учись. Photomath.](https://www.photomath.net/ru/)
@@ -95,9 +95,9 @@
   + [Интерактивная книга по линейной алгебре](http://immersivemath.com/ila)
   + [Математика - просто](https://www.youtube.com/channel/UClTIrwj5npeOaBjH6_AkKyA)
   + [Математика без Ху%!ни](https://www.youtube.com/channel/UCi3lxprPEKGjpmzzN90sceA)
-  + [Библиотека с 461 бесплатной книгой. Темы разные, доступно только чтение](https://biblio-online.ru/catalog/281B66C0-2AA2-474F-9DC9-84FE01C4D95B/legendarnye-knigi-461)
   + [Лекториум](https://www.youtube.com/channel/UCxAGkrJYNlpC1jfnJvE_6Lw)
   + [ФАЛТ МФТИ](https://www.youtube.com/channel/UC4VtfXvBu4d0us1RLf7z-2g/featured)
+  + [Библиотека с 461 бесплатной книгой. Темы разные, доступно только чтение](https://biblio-online.ru/catalog/281B66C0-2AA2-474F-9DC9-84FE01C4D95B/legendarnye-knigi-461)
 
 
 
