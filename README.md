@@ -1,6 +1,3 @@
-# Разное полезное
-2. [ЗФТШ](https://drive.google.com/drive/folders/1TOiXxbW09wWUe6Bmhe72bflI_rujnYPY)
-
 # Математика
 1. Каналы
   + [Pavel Maslov](https://www.youtube.com/channel/UCS3LBK0zy47iQgVApQo-fww)
@@ -10,7 +7,6 @@
   + [Школа Пифагора](https://www.youtube.com/channel/UC407WiIWio6gwRluzNSUQ3w)
   + LOMONOSOV CLUB ([прямые трансляции](https://www.youtube.com/user/lomonosovclubvideo), [записи стримов](https://www.youtube.com/channel/UC9C0wu31Q8jY1NTohcUCXWA))
   + [eXtraTeam](https://www.youtube.com/user/dmitrysinyaev)
-  + [Математика - просто](https://www.youtube.com/channel/UClTIrwj5npeOaBjH6_AkKyA)
   
 2. Задачники
   + [Методические указания](https://github.com/tanookki/FizMatInf/blob/master/2019_профиль_Методические%20указания.pdf)
@@ -69,7 +65,7 @@
 1. Каналы
   + [Anastasia Pesik](https://www.youtube.com/channel/UC9PP3JxkeziZiWtPWKsk93A)
   
-3. Аргументы
+2. Аргументы
   + [Неплохо было б прочесть](https://github.com/tanookki/FizMatInf/blob/master/Аргументы_СНАЧАЛА%20ПРОЧТИ%20ЭТО.pdf)
   + [Ахматова. Не с теми я, кто бросил землю](https://github.com/tanookki/FizMatInf/blob/master/Аргументы_Ахматова_Не%20с%20теми%20я%2C%20кто%20бросил%20землю.pdf)
   + [Булгаков. Мастер и маргарита](https://github.com/tanookki/FizMatInf/blob/master/Аргументы_Булгаков_Мастер%20и%20маргарита.pdf)
@@ -88,3 +84,20 @@
   + [Тургенев. Отцы и дети](https://github.com/tanookki/FizMatInf/blob/master/Аргументы_Тургенев_Отцы%20и%20дети.pdf)
   + [Чехов. Вишневый сад](https://github.com/tanookki/FizMatInf/blob/master/Аргументы_Чехов_Вишневый%20сад.pdf)
   + [Шолохов. Судьба человека](https://github.com/tanookki/FizMatInf/blob/master/Аргументы_Шолохов_Судьба%20человека.pdf)
+
+
+
+
+# Разное полезное и не очень
+1. [ЗФТШ](https://drive.google.com/drive/folders/1TOiXxbW09wWUe6Bmhe72bflI_rujnYPY)
+
+2. Не для егэ
+  + [Интерактивная книга по линейной алгебре](http://immersivemath.com/ila)
+  + [Математика - просто](https://www.youtube.com/channel/UClTIrwj5npeOaBjH6_AkKyA)
+  + [Математика без Ху%!ни](https://www.youtube.com/channel/UCi3lxprPEKGjpmzzN90sceA)
+  + [Библиотека с 461 бесплатной книгой. Темы разные, доступно только чтение](https://biblio-online.ru/catalog/281B66C0-2AA2-474F-9DC9-84FE01C4D95B/legendarnye-knigi-461)
+  + [Лекториум](https://www.youtube.com/channel/UCxAGkrJYNlpC1jfnJvE_6Lw)
+  + [ФАЛТ МФТИ](https://www.youtube.com/channel/UC4VtfXvBu4d0us1RLf7z-2g/featured)
+
+
+
