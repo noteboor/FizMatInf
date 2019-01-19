@@ -104,6 +104,9 @@
     + [Лекториум](https://www.youtube.com/channel/UCxAGkrJYNlpC1jfnJvE_6Lw)
     + [ФАЛТ МФТИ](https://www.youtube.com/channel/UC4VtfXvBu4d0us1RLf7z-2g/featured)
     + [Библиотека с 461 бесплатной книгой. Темы разные, доступно только чтение](https://biblio-online.ru/catalog/281B66C0-2AA2-474F-9DC9-84FE01C4D95B/legendarnye-knigi-461)
-
-
+    + [Бот в телеграмме, скидывающий книги](http://t-do.ru/flibustafreebookbot)
+    + [Годный подкаст о личной эффективности] (https://willbedone.ru/)
+    + [f.lux] (https://justgetflux.com/) приложение поможет сохранить зрение и улучшит сон
+    
+ 
 
