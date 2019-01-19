@@ -27,10 +27,10 @@
     + [math100.ru](http://math100.ru/sprav-mat/)
     + [Хороший сайт по физике и математике И. В. Яковлева](http://mathus.ru)
         + Для 13 и 15
-              + [тригонометрия](https://github.com/tanookki/FizMatInf/blob/master/Тригонометрические%20уравнения.pdf)
-              + [показательные](https://github.com/tanookki/FizMatInf/blob/master/Показательные%20уравнения%20и%20неравенства.pdf)
-              + [логарифмы](https://github.com/tanookki/FizMatInf/blob/master/Логарифмические%20уравнения%20и%20неравенства.pdf)
-              + [алгебраические](https://github.com/tanookki/FizMatInf/blob/master/Алгебраические%20уравнения%20и%20неравенства.pdf)
+            + [тригонометрия](https://github.com/tanookki/FizMatInf/blob/master/Тригонометрические%20уравнения.pdf)
+            + [показательные](https://github.com/tanookki/FizMatInf/blob/master/Показательные%20уравнения%20и%20неравенства.pdf)
+            + [логарифмы](https://github.com/tanookki/FizMatInf/blob/master/Логарифмические%20уравнения%20и%20неравенства.pdf)
+            + [алгебраические](https://github.com/tanookki/FizMatInf/blob/master/Алгебраические%20уравнения%20и%20неравенства.pdf)
         + [Для 14](https://github.com/tanookki/FizMatInf/blob/master/Стереометрия.pdf)
         + [Для 16](https://github.com/tanookki/FizMatInf/blob/master/Планиметрия.pdf)
         + [Для 17](https://github.com/tanookki/FizMatInf/blob/master/Экономические%20задачи.pdf)
@@ -105,8 +105,8 @@
     + [ФАЛТ МФТИ](https://www.youtube.com/channel/UC4VtfXvBu4d0us1RLf7z-2g/featured)
     + [Библиотека с 461 бесплатной книгой. Темы разные, доступно только чтение](https://biblio-online.ru/catalog/281B66C0-2AA2-474F-9DC9-84FE01C4D95B/legendarnye-knigi-461)
     + [Бот в телеграмме, скидывающий книги](http://t-do.ru/flibustafreebookbot)
-    + [Годный подкаст о личной эффективности] (https://willbedone.ru/)
-    + [f.lux] (https://justgetflux.com/) приложение поможет сохранить зрение и улучшит сон
+    + [Годный подкаст о личной эффективности](https://willbedone.ru/)
+    + [f.lux] (https://justgetflux.com/) - приложение поможет сохранить зрение и улучшит сон
     
  
 
