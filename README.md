@@ -67,10 +67,18 @@
 
 
 
+# Физика
+1. Каналы 
++ [Павtk Андреевич Виктор](https://www.youtube.com/channel/UCSdDqsIYf9v5UEWTNda1YBw)
+2. Сайты
++ [Библиотека электронной литературы Ришельевского лицея](http://rl.odessa.ua/index.php/ru/biblioteka/fizika)
+
+
+
 # Русский
 1. Каналы
     + [Anastasia Pesik](https://www.youtube.com/channel/UC9PP3JxkeziZiWtPWKsk93A)
-  
+    + [Irish U](https://www.youtube.com/channel/UCMmdUImvrEree15StDiPDUw)
 2. Аргументы
     + [Неплохо было б прочесть](https://github.com/tanookki/FizMatInf/blob/master/Аргументы_СНАЧАЛА%20ПРОЧТИ%20ЭТО.pdf)
     + [Ахматова. Не с теми я, кто бросил землю](https://github.com/tanookki/FizMatInf/blob/master/Аргументы_Ахматова_Не%20с%20теми%20я%2C%20кто%20бросил%20землю.pdf)
@@ -99,10 +107,15 @@
 
 2. Не для егэ
     + [Интерактивная книга по линейной алгебре](http://immersivemath.com/ila)
-    + [Математика - просто](https://www.youtube.com/channel/UClTIrwj5npeOaBjH6_AkKyA)
-    + [Математика без Ху%!ни](https://www.youtube.com/channel/UCi3lxprPEKGjpmzzN90sceA)
-    + [Лекториум](https://www.youtube.com/channel/UCxAGkrJYNlpC1jfnJvE_6Lw)
-    + [ФАЛТ МФТИ](https://www.youtube.com/channel/UC4VtfXvBu4d0us1RLf7z-2g/featured)
+    + Ютуб каналы
+        + [Математика - просто](https://www.youtube.com/channel/UClTIrwj5npeOaBjH6_AkKyA)
+        + [Математика без Ху%!ни](https://www.youtube.com/channel/UCi3lxprPEKGjpmzzN90sceA)
+        + [Лекториум](https://www.youtube.com/channel/UCxAGkrJYNlpC1jfnJvE_6Lw)
+        + [ФАЛТ МФТИ](https://www.youtube.com/channel/UC4VtfXvBu4d0us1RLf7z-2g/featured)
+    + Онлайн курсы
+        + [Coursera](coursera.org)
+        + [Stepik](https://stepik.org/catalog)
+        + [Открытое образование](openedu.ru)
     + [Библиотека с 461 бесплатной книгой. Темы разные, доступно только чтение](https://biblio-online.ru/catalog/281B66C0-2AA2-474F-9DC9-84FE01C4D95B/legendarnye-knigi-461)
     + [Бот в телеграмме, скидывающий книги](http://t-do.ru/flibustafreebookbot)
     + [Годный подкаст о личной эффективности](https://willbedone.ru/)
