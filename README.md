@@ -109,7 +109,7 @@
 
 # Физика
 1. Каналы 
-    + [Павtk Андреевич Виктор](https://www.youtube.com/channel/UCSdDqsIYf9v5UEWTNda1YBw)
+    + [Павел Андреевич Виктор](https://www.youtube.com/channel/UCSdDqsIYf9v5UEWTNda1YBw)
 2. Сайты
     + [Библиотека электронной литературы Ришельевского лицея](http://rl.odessa.ua/index.php/ru/biblioteka/fizika)
     + [Хороший сайт по физике и математике И. В. Яковлева](http://mathus.ru)
