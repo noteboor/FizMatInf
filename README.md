@@ -43,7 +43,27 @@
 6. [Параметры из открытого банка](https://github.com/tanookki/FizMatInf/blob/master/Параматры_из_открытого_банка.pdf) - [ответы к ним](https://docs.google.com/spreadsheets/d/1RsTHs1ixwgMvTneheEBLyxyv_8Q6i5gKA3mdgf32K0o/edit#gid=0)
 
 7. Статграды
-    + 20 декабря 18 ([задания](https://github.com/tanookki/FizMatInf/blob/master/статград_20.12.18_задания.pdf) , [форма для ответов](https://docs.google.com/spreadsheets/d/1yg7RwqaRn0PYUrywPNlMfG7MQpUKBhTjlZLgDCDpW78/edit?usp=sharing) )
+    + 2016 - 2017
+        + 22.09.2016 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/статград_пр_22.09.2016.pdf)
+        + 20.12.2016 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/статград_пр_20.12.2016.pdf)
+        + 26.01.2017 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/статград_пр_26.01.2017.pdf)
+        + 06.03.2017 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/статград_пр_06.03.2017.pdf)
+        + 21.04.2017 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/статград_пр_21.04.2017.pdf)
+        + 20.06.2017 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/статград_пр_20.06.2017.pdf)
+    + 2017 - 2018
+        + 21.09.2017 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/статград_пр_21.09.2017.pdf)
+        + 21.12.2017 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/статград_пр_21.12.2017.pdf)
+        + 25.01.2018 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/статград_пр_25.01.2018.pdf)
+        + 06.03.2018 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/статград_пр_06.03.2018.pdf)
+        + 18.04.2018 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/статград_пр_18.04.2018.pdf)
+        + 17.05.2018 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/статград_пр_17.05.2018.pdf)
+    + 2018 - 2019
+        + 20.09.2018 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/статград_пр_20.09.2018.pdf)
+        + 20.12.2018 [задания с ответами](https://github.com/tanookki/FizMatInf/blob/master/статград_пр_20.12.2018.pdf)
+        + 24.01.2019 
+        + 13.03.2019 
+        + 18.04.2019 
+        + 17.05.2019
 
 
 
@@ -69,9 +89,10 @@
 
 # Физика
 1. Каналы 
-+ [Павtk Андреевич Виктор](https://www.youtube.com/channel/UCSdDqsIYf9v5UEWTNda1YBw)
+    + [Павtk Андреевич Виктор](https://www.youtube.com/channel/UCSdDqsIYf9v5UEWTNda1YBw)
 2. Сайты
-+ [Библиотека электронной литературы Ришельевского лицея](http://rl.odessa.ua/index.php/ru/biblioteka/fizika)
+    + [Библиотека электронной литературы Ришельевского лицея](http://rl.odessa.ua/index.php/ru/biblioteka/fizika)
+    + [Хороший сайт по физике и математике И. В. Яковлева](http://mathus.ru)
 
 
 
@@ -119,7 +140,7 @@
     + [Библиотека с 461 бесплатной книгой. Темы разные, доступно только чтение](https://biblio-online.ru/catalog/281B66C0-2AA2-474F-9DC9-84FE01C4D95B/legendarnye-knigi-461)
     + [Бот в телеграмме, скидывающий книги](http://t-do.ru/flibustafreebookbot)
     + [Годный подкаст о личной эффективности](https://willbedone.ru/)
-    + [f.lux] (https://justgetflux.com/) - приложение поможет сохранить зрение и улучшит сон
+    + [f.lux](https://justgetflux.com/) - приложение поможет сохранить зрение и улучшит сон
     
  
 
