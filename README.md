@@ -113,6 +113,7 @@
 2. Сайты
     + [Библиотека электронной литературы Ришельевского лицея](http://rl.odessa.ua/index.php/ru/biblioteka/fizika)
     + [Хороший сайт по физике и математике И. В. Яковлева](http://mathus.ru)
+    + [Эксперт в егэ](https://github.com/tanookki/FizMatInf/blob/master/Физика_Эксперт%20в%20егэ.pdf)
 3. Статграды
     + 2016 - 2017
         + 12.10.2016
