@@ -126,6 +126,7 @@
     + [Библиотека электронной литературы Ришельевского лицея](http://rl.odessa.ua/index.php/ru/biblioteka/fizika)
     + [Хороший сайт по физике и математике И. В. Яковлева](http://mathus.ru)
     + [Эксперт в егэ](https://github.com/tanookki/FizMatInf/blob/master/Физика_Эксперт%20в%20егэ.pdf)
+    + [Диагностические работы](https://github.com/tanookki/FizMatInf/blob/master/2018_физика_Диагностические%20работы.pdf.pdf)
     + ВМК МГУ - школе
         + [Физика. Углубленный курс](https://github.com/tanookki/FizMatInf/blob/master/Fizika_-_uglublenny_kurs.pdf)
         + [Физика. Задачник-практикум](https://github.com/tanookki/FizMatInf/blob/master/Физика.%20Задачник-практикум%20для%20поступающих%20в%20вузы.pdf)
