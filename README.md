@@ -18,6 +18,8 @@
     + [Лысенко 2018](https://github.com/tanookki/FizMatInf/blob/master/2018_Лысенко.pdf)
     + [Гордин. Это должен знать каждый матшкольник](https://github.com/tanookki/FizMatInf/blob/master/Это%20должен%20знать%20каждый%20матшкольник.pdf)
     + [Задачник Wild Mathing](https://github.com/tanookki/FizMatInf/blob/master/Задачник%20Wild%20Mathing.pdf)
+    + [ВМК МГУ - школе. Базовый курс алгебры](https://github.com/tanookki/FizMatInf/blob/master/ВМК%20МГУ%20-%20школе_алгебра.pdf)
+    + [Сканави М.И. Сборник задач по математике для поступающих во втузы](https://vk.com/doc168870003_488798368?hash=c928e7f153ab8f5c13&dl=7cb3564ba0f413b859)
     + [Методические указания](https://github.com/tanookki/FizMatInf/blob/master/2019_профиль_Методические%20указания.pdf)
   
 3. Сайты 
@@ -80,6 +82,7 @@
 3. Задачники 
     + [Я сдам ЕГЭ (не сарказм)](https://drive.google.com/file/d/1Zapof48CUcb6b7lwapX-ggeKQfMQ-PIo/view)
     + [Диагностические работы](https://github.com/tanookki/FizMatInf/blob/master/2019_инфа_Диагностические%20работы.pdf)
+    + [Сложные варианты Д. В. Богданова ](http://ege-inf.ru)
 
 4. Статграды
     + 2016 - 2017
