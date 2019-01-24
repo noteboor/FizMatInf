@@ -18,8 +18,12 @@
     + [Лысенко 2018](https://github.com/tanookki/FizMatInf/blob/master/2018_Лысенко.pdf)
     + [Гордин. Это должен знать каждый матшкольник](https://github.com/tanookki/FizMatInf/blob/master/Это%20должен%20знать%20каждый%20матшкольник.pdf)
     + [Задачник Wild Mathing](https://github.com/tanookki/FizMatInf/blob/master/Задачник%20Wild%20Mathing.pdf)
-    + [ВМК МГУ - школе. Базовый курс алгебры](https://github.com/tanookki/FizMatInf/blob/master/ВМК%20МГУ%20-%20школе_алгебра.pdf)
     + [Сканави М.И. Сборник задач по математике для поступающих во втузы](https://vk.com/doc168870003_488798368?hash=c928e7f153ab8f5c13&dl=7cb3564ba0f413b859)
+    + ВМК МГУ - школе
+        + [Геометрия. Базовый курс](https://github.com/tanookki/FizMatInf/blob/master/Геометрия.%20Базовый%20курс%20с%20решениями%20и%20указаниями.pdf)
+        + [Геометрия. Углубленный курс](https://github.com/tanookki/FizMatInf/blob/master/Геометрия.%20Углубленный%20курс%20с%20решениями%20и%20указаниями_%20учебно-методическое%20пособие.pdf)
+        + [Алгебра. Базовый курс](https://github.com/tanookki/FizMatInf/blob/master/Алгебра.%20Базовый%20курс%20с%20решениями%20и%20указаниями_%20учебно-методическое%20пособие.pdf)
+        + [Алгебра. Углубленный курс](https://vk.com/doc475224071_490805201?hash=c6ab882c6142254b66&dl=b90d7f1104dc4029e4)
     + [Методические указания](https://github.com/tanookki/FizMatInf/blob/master/2019_профиль_Методические%20указания.pdf)
   
 3. Сайты 
@@ -117,6 +121,9 @@
     + [Библиотека электронной литературы Ришельевского лицея](http://rl.odessa.ua/index.php/ru/biblioteka/fizika)
     + [Хороший сайт по физике и математике И. В. Яковлева](http://mathus.ru)
     + [Эксперт в егэ](https://github.com/tanookki/FizMatInf/blob/master/Физика_Эксперт%20в%20егэ.pdf)
+    + ВМК МГУ - школе
+        + [Физика. Углубленный курс](https://github.com/tanookki/FizMatInf/blob/master/Fizika_-_uglublenny_kurs.pdf)
+        + [Физика. Задачник-практикум](https://github.com/tanookki/FizMatInf/blob/master/Физика.%20Задачник-практикум%20для%20поступающих%20в%20вузы.pdf)
 3. Статграды
     + 2016 - 2017
         + 12.10.2016
